@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ventureum/Kingston/issues"
   },
-  "homepage": "https://github.com/ventureum/Kingston#readme"
+  "homepage": "https://github.com/ventureum/Kingston#readme",
+  "devDependencies": {
+    "openzeppelin-solidity": "^1.10.0"
+  }
 }
