@@ -1,5 +1,5 @@
 {
-  "name": "kingston",
+  "name": "@ventureum/kingston",
   "version": "1.0.0",
   "description": "A very strong version controller",
   "main": "truffle.js",
